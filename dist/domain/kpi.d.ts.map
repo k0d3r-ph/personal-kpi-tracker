@@ -1,0 +1,1 @@
+{"version":3,"file":"kpi.d.ts","sourceRoot":"","sources":["../../src/domain/kpi.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAEvC,MAAM,WAAW,GAAG;IAClB,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;IACb,KAAK,EAAE,MAAM,CAAC;IACd,IAAI,EAAE,IAAI,CAAC;IACX,MAAM,EAAE,MAAM,CAAC;CAChB"}
