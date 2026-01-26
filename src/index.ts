@@ -1,14 +1,13 @@
-import { evalueKpi } from "./domain/evaluator/kpiEvaluator";
-import { Status } from "./domain/status";
+import { createKpi } from "./domain/kpiFactory";
+import { KpiType } from "./domain/kpiType";
+import { KpiRepository } from "./domain/repository/kpiRepository";
 
-const sleepValue = 6.5;
-const waterValue = 3;
+const repository = new KpiRepository();
 
-const status = evalueKpi("sleep_hours", sleepValue);
-const waterStatus = evalueKpi("water_intake", waterValue);
+const sleepKpi = createKpi(KpiType.SLEEP_HOURS, "Horas de sono", 6.5);
+const waterKpi = createKpi(KpiType.WATER_INTAKE, "Consumo de água", 3);
 
-console.log("Horas de sono:", sleepValue);
-console.log("Status:", status);
+repository.save(sleepKpi);
+repository.save(waterKpi);
 
-console.log("Litros bebidos:", waterValue);
-console.log("Status:", waterStatus);
+console.log(repository.findAll());

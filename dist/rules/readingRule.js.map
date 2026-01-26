@@ -1,0 +1,1 @@
+{"version":3,"file":"readingRule.js","sourceRoot":"","sources":["../../src/rules/readingRule.ts"],"names":[],"mappings":";;AAEA,oDAUC;AAZD,6CAA0C;AAE1C,SAAgB,oBAAoB,CAAC,OAAe;IAClD,IAAI,OAAO,IAAI,EAAE,EAAE,CAAC;QAClB,OAAO,eAAM,CAAC,KAAK,CAAC;IACtB,CAAC;IAED,IAAI,OAAO,IAAI,EAAE,EAAE,CAAC;QAClB,OAAO,eAAM,CAAC,MAAM,CAAC;IACvB,CAAC;IAED,OAAO,eAAM,CAAC,GAAG,CAAC;AACpB,CAAC"}

@@ -1,3 +1,4 @@
 import { Status } from "../status";
-export declare function evalueKpi(type: string, value: number): Status;
+import { KpiType } from "../kpiType";
+export declare function evalueKpi(type: KpiType, value: number): Status;
 //# sourceMappingURL=kpiEvaluator.d.ts.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"kpiFactory.d.ts","sourceRoot":"","sources":["../../src/domain/kpiFactory.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,GAAG,EAAE,MAAM,OAAO,CAAC;AAE5B,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAGpC,wBAAgB,SAAS,CACvB,IAAI,EAAE,OAAO,EACb,IAAI,EAAE,MAAM,EACZ,KAAK,EAAE,MAAM,EACb,IAAI,GAAE,IAAiB,GACtB,GAAG,CAUL"}

@@ -1,1 +1,1 @@
-{"version":3,"file":"kpiEvaluator.d.ts","sourceRoot":"","sources":["../../../src/domain/evaluator/kpiEvaluator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AAWnC,wBAAgB,SAAS,CAAC,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,GAAG,MAAM,CAQ7D"}
+{"version":3,"file":"kpiEvaluator.d.ts","sourceRoot":"","sources":["../../../src/domain/evaluator/kpiEvaluator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,WAAW,CAAC;AAKnC,OAAO,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAWrC,wBAAgB,SAAS,CAAC,IAAI,EAAE,OAAO,EAAE,KAAK,EAAE,MAAM,GAAG,MAAM,CAQ9D"}
