@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Debug TS Files",
+      "program": "${workspaceFolder}/src/index.ts", // Seu arquivo de entrada TS
+      "skipFiles": ["<node_internals>/**"],
+      "outFiles": ["${workspaceFolder}/dist/**/*.js"], // Pasta dos arquivos JS gerados
+      "sourceMaps": true,
+      "preLaunchTask": "npm: build" // Opcional: define uma tarefa de build antes do debug
+    }
+  ]
+}
